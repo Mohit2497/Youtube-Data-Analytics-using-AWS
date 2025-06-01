@@ -14,4 +14,3 @@ aws s3 cp KRvideos.csv s3://youtube-dataengg-raw-useast1-dev/youtube/raw_statist
 aws s3 cp MXvideos.csv s3://youtube-dataengg-raw-useast1-dev/youtube/raw_statistics/region=mx/
 aws s3 cp RUvideos.csv s3://youtube-dataengg-raw-useast1-dev/youtube/raw_statistics/region=ru/
 aws s3 cp USvideos.csv s3://youtube-dataengg-raw-useast1-dev/youtube/raw_statistics/region=us/
-
