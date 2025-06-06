@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e5905967-6bd2-458f-8eb2-9e5446b10938)
+
+
 # End-to-End YouTube Data Engineering Project
 
 This repository contains code and documentation for an end-to-end data engineering pipeline to process and analyze YouTube trending video data using AWS cloud services.
